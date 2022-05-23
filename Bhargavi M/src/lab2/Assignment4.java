@@ -2,7 +2,8 @@ package lab2;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Create a method which accepts an integer array and 
+//removes all the duplicates in the array. Return the resulting array in descending order
 public class Assignment4 {
 
 	static void modifyArray(int[] my_array)

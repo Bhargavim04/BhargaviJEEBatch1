@@ -1,7 +1,7 @@
 package Lab1;
 
 import java.util.Scanner;
-
+//Create a method to check if a number is a power of two or not
 public class Assignment8 {
 
 	public static void checkNumber(int n){

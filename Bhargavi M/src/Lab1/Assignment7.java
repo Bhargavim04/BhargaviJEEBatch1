@@ -1,7 +1,7 @@
 package Lab1;
 
 import java.util.Scanner;
-
+//Create a method to check if a number is an increasing number
 public class Assignment7 {
 
 	public static void  checkNumber(int num)

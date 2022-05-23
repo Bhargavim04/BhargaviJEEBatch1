@@ -3,7 +3,8 @@ package lab2;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+//Create a method which accepts an integer array, 
+//reverse the numbers in the array and returns the resulting array in sorted order
 public class Assignment3 {
 
 	public int reversDigits(int num) {

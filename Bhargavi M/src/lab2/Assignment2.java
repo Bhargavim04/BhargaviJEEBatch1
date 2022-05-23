@@ -2,7 +2,8 @@ package lab2;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Create a method that can accept an array of String objects and sort in alphabetical order. 
+//The elements in the left half should be completely in uppercase and the elements in the right half should be completely in lower case. Return the resulting array.
 public class Assignment2 {
 	public static void sortString(String[] str1)
 	{  
