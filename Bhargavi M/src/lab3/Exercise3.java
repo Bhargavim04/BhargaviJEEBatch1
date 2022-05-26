@@ -1,6 +1,9 @@
 package lab3;
 
 import java.util.Scanner;
+//Create a method which accepts a String and replaces all the consonants in the String 
+//with the next alphabet. 
+//Note: Consonant refers to all alphabets excluding vowels
 
 public class Exercise3 {
 
