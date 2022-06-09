@@ -8,7 +8,7 @@ public class Assignment2 {
 	public static void sortString(String[] str1)
 	{  
 		Arrays.sort(str1);
-        //System.out.println(Arrays.toString(str1));
+        
         for (int i=0;i<str1.length;i++)
         {
         	System.out.print(str1[i]+" ");

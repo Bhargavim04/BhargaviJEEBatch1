@@ -4,7 +4,7 @@ import java.util.Scanner;
 //elements and return the second smallest element in the array
 public class Assignment1 {
 
-	public static int getSecondSmallest(int[] a,int total)
+	public int getSecondSmallest(int[] a,int total)
 	{  
 		int temp;  
 		for (int i = 0; i < total; i++)   
